@@ -1,5 +1,6 @@
-mysite/settings.py
+# mysite/settings.py
 venv_practice
 **/__pycache__/
 # blog/__pycache__/
 # mysite/__pycache__/
+.env
